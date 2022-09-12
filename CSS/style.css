@@ -15,7 +15,6 @@ h1{
     margin: 0%;
 }
 
-
 span{
     color:  #808080;
 }
@@ -25,7 +24,6 @@ a{
     color: #20A9E5;
 }
 
-
 .Tim-img{
     margin-top: 15px;
 }
@@ -34,10 +32,15 @@ h6{
     margin: 5px;
 }
 
-
 ul{
     padding-left: 15px;
 }
+
+th{
+    width: 33%;
+    padding: 0px;
+}
+
 thead{
     background-color: #20A9E5;
 }
