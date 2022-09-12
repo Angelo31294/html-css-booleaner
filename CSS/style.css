@@ -33,3 +33,15 @@ a{
 h6{
     margin: 5px;
 }
+
+
+ul{
+    padding-left: 15px;
+}
+thead{
+    background-color: #20A9E5;
+}
+
+.riga{
+    background-color: #B1E5F2;
+}
