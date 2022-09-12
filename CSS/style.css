@@ -48,3 +48,30 @@ thead{
 .riga{
     background-color: #B1E5F2;
 }
+
+h5{
+    color: #808080;
+}
+
+
+.suggeriti{
+    width: 310px;
+    height: 200px;
+}
+
+.monitor{
+    width: 310px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{ 
+    width: 310px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+h4{
+    font-size: large;
+    color: white;
+}
