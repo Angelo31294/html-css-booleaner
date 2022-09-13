@@ -36,6 +36,10 @@ ul{
     padding-left: 15px;
 }
 
+
+table {
+    border-collapse: collapse;
+}
 th{
     width: 33%;
     padding: 0px;
